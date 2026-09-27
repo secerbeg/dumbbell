@@ -1,12 +1,10 @@
-BACKYARD PLYOMETRIC SPEED SESSION
+Small-Space Plyometric and Power Session
 
-Standalone webpage built in the same style as the Sprint Training Session page.
+Contents
+- index.html
+- styles.css
+- assets/images (visual cards and video posters)
+- assets/videos (3 dumbbell activity videos)
 
-Open index.html locally or upload the entire folder to GitHub Pages.
-
-Included:
-- Two warm-up options
-- Four simple plyometric activities
-- Three small-space first-step speed activities
-- Three user-provided dumbbell activity videos
-- Cool down and quality rules
+Open index.html in a browser.
+This version removes the old "Backyard Speed Development" wording and adds visual references for each activity.
